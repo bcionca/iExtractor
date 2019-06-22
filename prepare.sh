@@ -9,7 +9,7 @@ cd ..
 cd lzssdec && make
 cd ..
 cd xpwn && mkdir builddir && cd builddir && cmake .. && make
-cd ..
+cd ../../..
 mkdir ipsw
 mkdir out
 
